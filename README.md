@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil N Shetty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shettynikhiln&label=Profile%20views&color=0e75b6&style=flat" alt="shettynikhiln" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shettynikhiln" alt="shettynikhiln" /></a> </p>
